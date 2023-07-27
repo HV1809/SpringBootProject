@@ -8,7 +8,7 @@ public class HelloWorldClass {
 
     @RequestMapping(value = "/")
     public String getHelloWorldClass(){
-        return "Welcome to the new world Harsha";
+        return "Hello World has been updated in the hellowroldclass";
     }
 }
 /*
